@@ -19,9 +19,9 @@ You can connect with developers around the world to ask and answer questions, le
 Branches, forks, and pull requests
 Learn about Git branching using an interactive tool. Read about forks and pull requests as well as how we use pull requests at GitHub. Access references about using GitHub from the command line.
 
-Training
+**Training
 Free courses
-GitHub offers a series of interactive, on-demand training courses including Introduction to GitHub; and courses on GitHub specific tools such as GitHub Actions.
+GitHub offers a series of interactive, on-demand training courses including Introduction to GitHub; and courses on GitHub specific tools such as GitHub Actions.**
 
 GitHub's web-based educational programs
 GitHub offers live trainings with a hands-on, project-based approach for those who love the command line and those who don't.
