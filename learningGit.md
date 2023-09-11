@@ -27,10 +27,10 @@ GitHub offers live trainings with a hands-on, project-based approach for those w
 Training for your company
 GitHub offers in-person classes taught by our highly-experienced educators. Contact us to ask your training-related questions.
 
-Extras
-An interactive online Git course from Pluralsight has seven levels with dozens of exercises in a fun game format. Feel free to adapt our .gitignore templates to meet your needs.
+**Extras
+An interactive online Git course from Pluralsight has seven levels with dozens of exercises in a fun game format. Feel free to adapt our .gitignore templates to meet your needs.**
 
-Extend your GitHub reach through integrations, or by installing GitHub Desktop and the robust Visual Studio Code text editor.
+Extend your GitHub reach through integrations, or by installing GitHub Desktop and the robust Visual Studio Code text editor. 
 
 Added for Pull to computer. 
 
