@@ -14,7 +14,7 @@ GitHub Skills offers free interactive courses that are built into GitHub with in
 
 You can connect with developers around the world to ask and answer questions, learn, and interact directly with GitHub staff. To get the conversation started, see "GitHub Community Support."
 
-Branches, forks, and pull requests
+Branches, forks, spoons, and pull requests
 Learn about Git branching using an interactive tool. Read about forks and pull requests as well as how we use pull requests at GitHub. Access references about using GitHub from the command line.
 
 **Training
