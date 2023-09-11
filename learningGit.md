@@ -1,9 +1,10 @@
-Git and GitHub learning resources
+**Git and GitHub learning resources**
 In this article
 Using Git
 Using GitHub
 Training
 Extras
+
 There are a lot of helpful Git and GitHub resources on the web. This is a short list of our favorites!
 
 Using Git
